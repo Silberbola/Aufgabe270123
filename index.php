@@ -27,7 +27,8 @@
         Die Aufgaben eines Fachinformatikers Anwendungsentwicklung sind vielfältig und umfassen u.a. die
          Konzeption, Entwicklung, Test und Pflege von Anwendungen. Sie sind auch verantwortlich für die
           Dokumentation der Anwendungen und die Schulung der Anwender</p>
-          <img src="img/programmierer-am-schreibtisch.png" alt="Anwendungsentwicklung" width="30%" height="30%">
+    <div class="imagem">
+        <img src="img\web-g222073919_640.png" alt="Anwendungsentwicklung" width="30%" height="30%">
     </div>
     <div>
         <h2>Fachinformatik Systemintegration</h2>
@@ -40,7 +41,9 @@
         Ein wichtiger Teil des Berufs ist die Analyse von Anforderungen und die Erstellung von Konzepten.
          Dabei werden die Anforderungen der Kunden oder des Unternehmens mit den technischen Möglichkeiten
           abgeglichen und die beste Lösung erarbeitet.</p>
-          <img src="img/Pngtrbusiness technology.png" alt="Anwendungsentwicklung" width="30%" height="30%">
+    <div class="imagem">
+          <img src="img/computer-g259f83899_640.png" alt="Anwendungsentwicklung" width="30%" height="30%">
+          </div>
     </div>
 </body>
 </html>
