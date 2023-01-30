@@ -1,0 +1,38 @@
+body{
+    font-family: "Times New Roman";
+    background-color: #aff1ec;
+}
+h1{
+    font-style: oblique;
+    text-align: center;
+    background-color: #220799;
+    color: white;
+    font-family: "Open Sans Condesed", sans-serif;
+}
+h2{
+    font-family: "Open Sans Condesed", sans-serif;
+    color: black;
+}
+h3{
+    font-family: "Open Sans Condesed", sans-serif;
+    color: crimson;
+    animation: animate 1.5s linear infinite;
+}
+@keyframes animate{
+    0%{
+      opacity: 0;
+    }
+    50%{
+      opacity: 0.7;
+    }
+    100%{
+      opacity: 0;
+    }
+}
+p{
+    text-align: justify;
+    font-family: "Arial";
+    word-wrap: normal;
+    margin: 10px;
+
+}
